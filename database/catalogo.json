@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "codigo": 790,
+            "titulo": "O Jardim Secreto",
+            "duracao": "1h39",
+            "atores": ["Amir Wilson", "Colin Firth", "Julie Walters", "Maeve Dermody"],
+            "anoDeLancamento": 1993,
+            "emCartaz": false
+        },
+        {
+            "codigo": 505,
+            "titulo": "Doutor Estranho no Multiverso da Loucura",
+            "duracao": "2h06",
+            "atores": ["Benedict Cumberbatch", "Elizabeth Olsen", "Patrick Stewart"],
+            "anoDeLancamento": 2022,
+            "emCartaz": true
+        }
+    ]
+}
