@@ -8,3 +8,14 @@ function listarTodosOsFilmes (filmes){
 }
 
 listarTodosOsFilmes(catalogo.data);
+
+function listarFilmesEmCartaz(filmes){
+    const filmesEmCartaz = filmes.filter((filme) => {
+        if(filme.emCartaz === true){
+            return true;
+        }
+    });
+    return filmesEmCartaz;
+}
+
+console.log(listarFilmesEmCartaz(catalogo.data));
